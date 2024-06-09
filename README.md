@@ -4,7 +4,7 @@ This repository contains my personal solutions to the exercises from the Python 
 
 ## Repository Structure
 
-- **Lessons**: Jupyter notebooks with detailed explanations and examples on various Python topics essential for AI.
+- **Lessons**: Jupyter notebooks, slides & pdfs with detailed explanations and examples on various Python topics essential for AI.
 - **Labs**: My solutions to practical exercises and challenges.
 
 ## Tools and Technologies
